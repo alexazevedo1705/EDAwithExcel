@@ -13,6 +13,7 @@ PRINCIPAIS ETAPAS DO PROJETO:
        - Separação dos dados agrupados em uma única célula;
        - Fixação da primeira linha contendo os títulos de cada coluna
        - Desagrupar a data da hora na coluna InvoiceDate
+       - Excluir valores linhas com valores de quantidade negativos
 
   3. Sumarização Estatística:
     Calculei estatísticas descritivas essenciais, como média, mediana e desvio padrão, para entender a tendência central e a dispersão dos dados.
