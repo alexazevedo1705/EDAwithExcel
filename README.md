@@ -8,6 +8,7 @@ PRINCIPAIS ETAPAS DO PROJETO:
   1. Importação e Preparação de Dados:
     Importei os dados do conjunto de dados Kaggle para o Excel, explorando e entendendo a estrutura dos dados. Realizei limpeza e pré-processamento quando necessário.
     <a href="https://www.kaggle.com/datasets/carrie1/ecommerce-data/data">E-commerce dataset on Kaggle</a>
+      
       Etapas realizadas:
        - Separação dos dados agrupados em uma única célula;
        - Fixação da primeira linha contendo os títulos de cada coluna
